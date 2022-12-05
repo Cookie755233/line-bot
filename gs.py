@@ -1,7 +1,7 @@
 import pygsheets
 import pandas as pd
 
-auth_file = "linebot-key.json"
+auth_file = "gs-key.json"
 url = "https://docs.google.com/spreadsheets/d/13UuliTofuUDBReMdL3-RTC03GY7m0so_rGadeWZRyKk/"
 scope = ['https://www.googleapis.com/auth/spreadsheets']
 
